@@ -7,10 +7,6 @@
 
 - ✉️ Reach me by matrix free port **igorni3miec@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ---
 
 <h3 align="left">Languages & Tools:</h3>
