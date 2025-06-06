@@ -19,4 +19,4 @@ Profile TAO
 
 <br clear="both">
 
-![snake gif](https://github.com/IgorNiemiec/Niemiec/blob/output/github-snake.svg)
+![snake gif](https://github.com/IgorNiemiec/IgorNiemiec/blob/output/github-snake.svg)
