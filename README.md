@@ -1,6 +1,3 @@
-# Niemiec
-Profile TAO
-
 <h1 align="center">--- Igor Niemiec ---</h1>
 <h3 align="center">| BIG THINGS TO COME |</h3>
 
