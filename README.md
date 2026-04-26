@@ -8,8 +8,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Igor%20Niemiec&fontSize=70" alt="Header" />
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorniemiec)
   [![Portfolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorni3miec@gmail.com)
 </div>
